@@ -1,5 +1,4 @@
 # SeriesElasticDifferential
-# Body Powered Exoskleton Glove
 
 **Title:** A Compact, Adaptive, Series Elastic Differential Mechanism for Grippers and Hands
 
