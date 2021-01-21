@@ -1,4 +1,4 @@
-# Series-Elastic-Differential
+# Series Elastic Differential
 
 **Title:** A Compact, Adaptive, Series Elastic Differential Mechanism for Grippers and Hands
 
